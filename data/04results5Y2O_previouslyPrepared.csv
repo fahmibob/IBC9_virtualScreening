@@ -1,0 +1,308 @@
+,SDF Filename,Mode,Affinity (kcal/mol),species_list,pref_name
+0,docked_ligand_0.sdf,1,-8.13019,Myrsine capitellata; Equisetum hyemale; Afrocarpus falcatus; Tropaeolum majus; Ixeris chinensis; Centaurea solstitialis; Peganum harmala; Capparis spinosa; Allium tuberosum; Moringa oleifera; Brassica rapa; Alangium longiflorum; Centella asiatica; Impatiens balsamina; Rivina humilis; Nephelium lappaceum; Alstonia muelleriana; Garcinia macrophylla; Corchorus olitorius; Chenopodium quinoa; Phalaris canariensis; Nasturtium officinale; Carum carvi; Diospyros eriantha; Cyrtomium falcatum; Persicaria glabra; Payena lucida; Pteridium aquilinum; Salvia hispanica; Cucumis melo; Caulerpa serrulata; Aristolochia zollingeriana; Rhododendron mucronatum; Houttuynia cordata; Gouania microcarpa; Prunus persica; Lonicera japonica; Glochidion sphaerogynum; Lepidium sativum; Mitragyna speciosa; Hunteria zeylanica; Scolopia chinensis; Rhodiola rosea; Daucus carota; Pyrrosia lingua; Alphitonia macrocarpa; Capsicum annuum; Glinus lotoides; Vitis vinifera; Agrimonia pilosa; Rosa chinensis; Carthamus tinctorius; Atalantia racemosa; Canella winterana; Salacia elliptica; Croton cascarilloides; Melia azedarach; Erythrospermum zeylanicum; Thymus vulgaris; Zingiber officinale; Psychotria serpens; Ipomoea aquatica; Pseudognaphalium affine; Phyllanthus urinaria; Vigna unguiculata; Dichotomaria marginata; Punica granatum; Anethum graveolens; Tarenaya spinosa; Solanum nigrum; Allium ampeloprasum; Allium schoenoprasum; Chrysanthemum indicum; Colocasia esculenta; Bombax ceiba; Indigofera spicata; Kaempferia galanga; Urtica dioica; Allium cepa; Vicia faba; Clausena lansium; Solanum aculeatissimum; Rosulabryum capillare; Eugenia uniflora; Osmanthus heterophyllus; Diplopterygium glaucum; Targionia hypophylla; Cibotium barometz; Magnolia sprengeri; Cucurbita moschata; Beta vulgaris; Smilax china; Albertisia papuana; Senna siamea; Persicaria orientalis; Tephrosia pumila; Diphasiastrum thyoides; Ophiorrhiza blumeana; Walsura tubulata; Tephrosia vogelii; Annona muricata; Isodon japonicus; Euphorbia hirta; Frullania tamarisci; Macadamia ternifolia; Apium graveolens; Vigna radiata; Murraya paniculata; Carica papaya; Citrus maxima; Crinum latifolium; Morus alba; Foeniculum vulgare; Ipomoea batatas; Oroxylum indicum; Cuscuta australis; Radermachera xylocarpa; Eragrostis viscosa; Nauclea officinalis; Brassica juncea; Persicaria hydropiper; Euonymus alatus; Crescentia cujete; Sarcandra glabra; Mangifera indica; Pogostemon cablin; Urena lobata; Samadera indica; Spinulum annotinum; Solanum lycopersicum; Citrus limon; Desmodium styracifolium; Zingiber spectabile; Pteris dactylina; Nelumbo nucifera; Sinningia cardinalis; Syzygium aromaticum; Dicranopteris linearis; Morinda citrifolia; Solanum tuberosum; Erigeron annuus; Fagraea gracilipes; Croton nitens; Portulaca oleracea; Syzygium nervosum; Phaseolus vulgaris; Dipteryx odorata; Phegopteris connectilis; Glycine tomentella; Myristica fragrans; Bauhinia purpurea; Bauhinia glauca; Etlingera elatior; Petroselinum crispum; Limnocharis flava; Cocos nucifera; Jasminum multiflorum; Amaranthus hypochondriacus; Ixora coccinea; Canarium strictum; Allium sativum; Helicteres angustifolia; Brassica napus; Citrus aurantium; Eucalyptus resinifera; Cucumis sativus; Raphanus sativus; Brassica oleracea; Glycine max; Solanum melongena; Debregeasia orientalis; Sinapis alba; Asparagus officinalis; Artocarpus altilis; Camellia sinensis; Porophyllum ruderale; Artemisia lactiflora; Kaempferia rotunda; Pteris semipinnata; Citrullus lanatus; Catunaregam spinosa; Pyrostegia venusta; Typha angustifolia; Indigofera linnaei,Kaempferol
+1,docked_ligand_0.sdf,2,-7.80471,Myrsine capitellata; Equisetum hyemale; Afrocarpus falcatus; Tropaeolum majus; Ixeris chinensis; Centaurea solstitialis; Peganum harmala; Capparis spinosa; Allium tuberosum; Moringa oleifera; Brassica rapa; Alangium longiflorum; Centella asiatica; Impatiens balsamina; Rivina humilis; Nephelium lappaceum; Alstonia muelleriana; Garcinia macrophylla; Corchorus olitorius; Chenopodium quinoa; Phalaris canariensis; Nasturtium officinale; Carum carvi; Diospyros eriantha; Cyrtomium falcatum; Persicaria glabra; Payena lucida; Pteridium aquilinum; Salvia hispanica; Cucumis melo; Caulerpa serrulata; Aristolochia zollingeriana; Rhododendron mucronatum; Houttuynia cordata; Gouania microcarpa; Prunus persica; Lonicera japonica; Glochidion sphaerogynum; Lepidium sativum; Mitragyna speciosa; Hunteria zeylanica; Scolopia chinensis; Rhodiola rosea; Daucus carota; Pyrrosia lingua; Alphitonia macrocarpa; Capsicum annuum; Glinus lotoides; Vitis vinifera; Agrimonia pilosa; Rosa chinensis; Carthamus tinctorius; Atalantia racemosa; Canella winterana; Salacia elliptica; Croton cascarilloides; Melia azedarach; Erythrospermum zeylanicum; Thymus vulgaris; Zingiber officinale; Psychotria serpens; Ipomoea aquatica; Pseudognaphalium affine; Phyllanthus urinaria; Vigna unguiculata; Dichotomaria marginata; Punica granatum; Anethum graveolens; Tarenaya spinosa; Solanum nigrum; Allium ampeloprasum; Allium schoenoprasum; Chrysanthemum indicum; Colocasia esculenta; Bombax ceiba; Indigofera spicata; Kaempferia galanga; Urtica dioica; Allium cepa; Vicia faba; Clausena lansium; Solanum aculeatissimum; Rosulabryum capillare; Eugenia uniflora; Osmanthus heterophyllus; Diplopterygium glaucum; Targionia hypophylla; Cibotium barometz; Magnolia sprengeri; Cucurbita moschata; Beta vulgaris; Smilax china; Albertisia papuana; Senna siamea; Persicaria orientalis; Tephrosia pumila; Diphasiastrum thyoides; Ophiorrhiza blumeana; Walsura tubulata; Tephrosia vogelii; Annona muricata; Isodon japonicus; Euphorbia hirta; Frullania tamarisci; Macadamia ternifolia; Apium graveolens; Vigna radiata; Murraya paniculata; Carica papaya; Citrus maxima; Crinum latifolium; Morus alba; Foeniculum vulgare; Ipomoea batatas; Oroxylum indicum; Cuscuta australis; Radermachera xylocarpa; Eragrostis viscosa; Nauclea officinalis; Brassica juncea; Persicaria hydropiper; Euonymus alatus; Crescentia cujete; Sarcandra glabra; Mangifera indica; Pogostemon cablin; Urena lobata; Samadera indica; Spinulum annotinum; Solanum lycopersicum; Citrus limon; Desmodium styracifolium; Zingiber spectabile; Pteris dactylina; Nelumbo nucifera; Sinningia cardinalis; Syzygium aromaticum; Dicranopteris linearis; Morinda citrifolia; Solanum tuberosum; Erigeron annuus; Fagraea gracilipes; Croton nitens; Portulaca oleracea; Syzygium nervosum; Phaseolus vulgaris; Dipteryx odorata; Phegopteris connectilis; Glycine tomentella; Myristica fragrans; Bauhinia purpurea; Bauhinia glauca; Etlingera elatior; Petroselinum crispum; Limnocharis flava; Cocos nucifera; Jasminum multiflorum; Amaranthus hypochondriacus; Ixora coccinea; Canarium strictum; Allium sativum; Helicteres angustifolia; Brassica napus; Citrus aurantium; Eucalyptus resinifera; Cucumis sativus; Raphanus sativus; Brassica oleracea; Glycine max; Solanum melongena; Debregeasia orientalis; Sinapis alba; Asparagus officinalis; Artocarpus altilis; Camellia sinensis; Porophyllum ruderale; Artemisia lactiflora; Kaempferia rotunda; Pteris semipinnata; Citrullus lanatus; Catunaregam spinosa; Pyrostegia venusta; Typha angustifolia; Indigofera linnaei,Kaempferol
+2,docked_ligand_0.sdf,3,-7.68134,Myrsine capitellata; Equisetum hyemale; Afrocarpus falcatus; Tropaeolum majus; Ixeris chinensis; Centaurea solstitialis; Peganum harmala; Capparis spinosa; Allium tuberosum; Moringa oleifera; Brassica rapa; Alangium longiflorum; Centella asiatica; Impatiens balsamina; Rivina humilis; Nephelium lappaceum; Alstonia muelleriana; Garcinia macrophylla; Corchorus olitorius; Chenopodium quinoa; Phalaris canariensis; Nasturtium officinale; Carum carvi; Diospyros eriantha; Cyrtomium falcatum; Persicaria glabra; Payena lucida; Pteridium aquilinum; Salvia hispanica; Cucumis melo; Caulerpa serrulata; Aristolochia zollingeriana; Rhododendron mucronatum; Houttuynia cordata; Gouania microcarpa; Prunus persica; Lonicera japonica; Glochidion sphaerogynum; Lepidium sativum; Mitragyna speciosa; Hunteria zeylanica; Scolopia chinensis; Rhodiola rosea; Daucus carota; Pyrrosia lingua; Alphitonia macrocarpa; Capsicum annuum; Glinus lotoides; Vitis vinifera; Agrimonia pilosa; Rosa chinensis; Carthamus tinctorius; Atalantia racemosa; Canella winterana; Salacia elliptica; Croton cascarilloides; Melia azedarach; Erythrospermum zeylanicum; Thymus vulgaris; Zingiber officinale; Psychotria serpens; Ipomoea aquatica; Pseudognaphalium affine; Phyllanthus urinaria; Vigna unguiculata; Dichotomaria marginata; Punica granatum; Anethum graveolens; Tarenaya spinosa; Solanum nigrum; Allium ampeloprasum; Allium schoenoprasum; Chrysanthemum indicum; Colocasia esculenta; Bombax ceiba; Indigofera spicata; Kaempferia galanga; Urtica dioica; Allium cepa; Vicia faba; Clausena lansium; Solanum aculeatissimum; Rosulabryum capillare; Eugenia uniflora; Osmanthus heterophyllus; Diplopterygium glaucum; Targionia hypophylla; Cibotium barometz; Magnolia sprengeri; Cucurbita moschata; Beta vulgaris; Smilax china; Albertisia papuana; Senna siamea; Persicaria orientalis; Tephrosia pumila; Diphasiastrum thyoides; Ophiorrhiza blumeana; Walsura tubulata; Tephrosia vogelii; Annona muricata; Isodon japonicus; Euphorbia hirta; Frullania tamarisci; Macadamia ternifolia; Apium graveolens; Vigna radiata; Murraya paniculata; Carica papaya; Citrus maxima; Crinum latifolium; Morus alba; Foeniculum vulgare; Ipomoea batatas; Oroxylum indicum; Cuscuta australis; Radermachera xylocarpa; Eragrostis viscosa; Nauclea officinalis; Brassica juncea; Persicaria hydropiper; Euonymus alatus; Crescentia cujete; Sarcandra glabra; Mangifera indica; Pogostemon cablin; Urena lobata; Samadera indica; Spinulum annotinum; Solanum lycopersicum; Citrus limon; Desmodium styracifolium; Zingiber spectabile; Pteris dactylina; Nelumbo nucifera; Sinningia cardinalis; Syzygium aromaticum; Dicranopteris linearis; Morinda citrifolia; Solanum tuberosum; Erigeron annuus; Fagraea gracilipes; Croton nitens; Portulaca oleracea; Syzygium nervosum; Phaseolus vulgaris; Dipteryx odorata; Phegopteris connectilis; Glycine tomentella; Myristica fragrans; Bauhinia purpurea; Bauhinia glauca; Etlingera elatior; Petroselinum crispum; Limnocharis flava; Cocos nucifera; Jasminum multiflorum; Amaranthus hypochondriacus; Ixora coccinea; Canarium strictum; Allium sativum; Helicteres angustifolia; Brassica napus; Citrus aurantium; Eucalyptus resinifera; Cucumis sativus; Raphanus sativus; Brassica oleracea; Glycine max; Solanum melongena; Debregeasia orientalis; Sinapis alba; Asparagus officinalis; Artocarpus altilis; Camellia sinensis; Porophyllum ruderale; Artemisia lactiflora; Kaempferia rotunda; Pteris semipinnata; Citrullus lanatus; Catunaregam spinosa; Pyrostegia venusta; Typha angustifolia; Indigofera linnaei,Kaempferol
+3,docked_ligand_0.sdf,4,-7.67686,Myrsine capitellata; Equisetum hyemale; Afrocarpus falcatus; Tropaeolum majus; Ixeris chinensis; Centaurea solstitialis; Peganum harmala; Capparis spinosa; Allium tuberosum; Moringa oleifera; Brassica rapa; Alangium longiflorum; Centella asiatica; Impatiens balsamina; Rivina humilis; Nephelium lappaceum; Alstonia muelleriana; Garcinia macrophylla; Corchorus olitorius; Chenopodium quinoa; Phalaris canariensis; Nasturtium officinale; Carum carvi; Diospyros eriantha; Cyrtomium falcatum; Persicaria glabra; Payena lucida; Pteridium aquilinum; Salvia hispanica; Cucumis melo; Caulerpa serrulata; Aristolochia zollingeriana; Rhododendron mucronatum; Houttuynia cordata; Gouania microcarpa; Prunus persica; Lonicera japonica; Glochidion sphaerogynum; Lepidium sativum; Mitragyna speciosa; Hunteria zeylanica; Scolopia chinensis; Rhodiola rosea; Daucus carota; Pyrrosia lingua; Alphitonia macrocarpa; Capsicum annuum; Glinus lotoides; Vitis vinifera; Agrimonia pilosa; Rosa chinensis; Carthamus tinctorius; Atalantia racemosa; Canella winterana; Salacia elliptica; Croton cascarilloides; Melia azedarach; Erythrospermum zeylanicum; Thymus vulgaris; Zingiber officinale; Psychotria serpens; Ipomoea aquatica; Pseudognaphalium affine; Phyllanthus urinaria; Vigna unguiculata; Dichotomaria marginata; Punica granatum; Anethum graveolens; Tarenaya spinosa; Solanum nigrum; Allium ampeloprasum; Allium schoenoprasum; Chrysanthemum indicum; Colocasia esculenta; Bombax ceiba; Indigofera spicata; Kaempferia galanga; Urtica dioica; Allium cepa; Vicia faba; Clausena lansium; Solanum aculeatissimum; Rosulabryum capillare; Eugenia uniflora; Osmanthus heterophyllus; Diplopterygium glaucum; Targionia hypophylla; Cibotium barometz; Magnolia sprengeri; Cucurbita moschata; Beta vulgaris; Smilax china; Albertisia papuana; Senna siamea; Persicaria orientalis; Tephrosia pumila; Diphasiastrum thyoides; Ophiorrhiza blumeana; Walsura tubulata; Tephrosia vogelii; Annona muricata; Isodon japonicus; Euphorbia hirta; Frullania tamarisci; Macadamia ternifolia; Apium graveolens; Vigna radiata; Murraya paniculata; Carica papaya; Citrus maxima; Crinum latifolium; Morus alba; Foeniculum vulgare; Ipomoea batatas; Oroxylum indicum; Cuscuta australis; Radermachera xylocarpa; Eragrostis viscosa; Nauclea officinalis; Brassica juncea; Persicaria hydropiper; Euonymus alatus; Crescentia cujete; Sarcandra glabra; Mangifera indica; Pogostemon cablin; Urena lobata; Samadera indica; Spinulum annotinum; Solanum lycopersicum; Citrus limon; Desmodium styracifolium; Zingiber spectabile; Pteris dactylina; Nelumbo nucifera; Sinningia cardinalis; Syzygium aromaticum; Dicranopteris linearis; Morinda citrifolia; Solanum tuberosum; Erigeron annuus; Fagraea gracilipes; Croton nitens; Portulaca oleracea; Syzygium nervosum; Phaseolus vulgaris; Dipteryx odorata; Phegopteris connectilis; Glycine tomentella; Myristica fragrans; Bauhinia purpurea; Bauhinia glauca; Etlingera elatior; Petroselinum crispum; Limnocharis flava; Cocos nucifera; Jasminum multiflorum; Amaranthus hypochondriacus; Ixora coccinea; Canarium strictum; Allium sativum; Helicteres angustifolia; Brassica napus; Citrus aurantium; Eucalyptus resinifera; Cucumis sativus; Raphanus sativus; Brassica oleracea; Glycine max; Solanum melongena; Debregeasia orientalis; Sinapis alba; Asparagus officinalis; Artocarpus altilis; Camellia sinensis; Porophyllum ruderale; Artemisia lactiflora; Kaempferia rotunda; Pteris semipinnata; Citrullus lanatus; Catunaregam spinosa; Pyrostegia venusta; Typha angustifolia; Indigofera linnaei,Kaempferol
+4,docked_ligand_0.sdf,5,-7.62439,Myrsine capitellata; Equisetum hyemale; Afrocarpus falcatus; Tropaeolum majus; Ixeris chinensis; Centaurea solstitialis; Peganum harmala; Capparis spinosa; Allium tuberosum; Moringa oleifera; Brassica rapa; Alangium longiflorum; Centella asiatica; Impatiens balsamina; Rivina humilis; Nephelium lappaceum; Alstonia muelleriana; Garcinia macrophylla; Corchorus olitorius; Chenopodium quinoa; Phalaris canariensis; Nasturtium officinale; Carum carvi; Diospyros eriantha; Cyrtomium falcatum; Persicaria glabra; Payena lucida; Pteridium aquilinum; Salvia hispanica; Cucumis melo; Caulerpa serrulata; Aristolochia zollingeriana; Rhododendron mucronatum; Houttuynia cordata; Gouania microcarpa; Prunus persica; Lonicera japonica; Glochidion sphaerogynum; Lepidium sativum; Mitragyna speciosa; Hunteria zeylanica; Scolopia chinensis; Rhodiola rosea; Daucus carota; Pyrrosia lingua; Alphitonia macrocarpa; Capsicum annuum; Glinus lotoides; Vitis vinifera; Agrimonia pilosa; Rosa chinensis; Carthamus tinctorius; Atalantia racemosa; Canella winterana; Salacia elliptica; Croton cascarilloides; Melia azedarach; Erythrospermum zeylanicum; Thymus vulgaris; Zingiber officinale; Psychotria serpens; Ipomoea aquatica; Pseudognaphalium affine; Phyllanthus urinaria; Vigna unguiculata; Dichotomaria marginata; Punica granatum; Anethum graveolens; Tarenaya spinosa; Solanum nigrum; Allium ampeloprasum; Allium schoenoprasum; Chrysanthemum indicum; Colocasia esculenta; Bombax ceiba; Indigofera spicata; Kaempferia galanga; Urtica dioica; Allium cepa; Vicia faba; Clausena lansium; Solanum aculeatissimum; Rosulabryum capillare; Eugenia uniflora; Osmanthus heterophyllus; Diplopterygium glaucum; Targionia hypophylla; Cibotium barometz; Magnolia sprengeri; Cucurbita moschata; Beta vulgaris; Smilax china; Albertisia papuana; Senna siamea; Persicaria orientalis; Tephrosia pumila; Diphasiastrum thyoides; Ophiorrhiza blumeana; Walsura tubulata; Tephrosia vogelii; Annona muricata; Isodon japonicus; Euphorbia hirta; Frullania tamarisci; Macadamia ternifolia; Apium graveolens; Vigna radiata; Murraya paniculata; Carica papaya; Citrus maxima; Crinum latifolium; Morus alba; Foeniculum vulgare; Ipomoea batatas; Oroxylum indicum; Cuscuta australis; Radermachera xylocarpa; Eragrostis viscosa; Nauclea officinalis; Brassica juncea; Persicaria hydropiper; Euonymus alatus; Crescentia cujete; Sarcandra glabra; Mangifera indica; Pogostemon cablin; Urena lobata; Samadera indica; Spinulum annotinum; Solanum lycopersicum; Citrus limon; Desmodium styracifolium; Zingiber spectabile; Pteris dactylina; Nelumbo nucifera; Sinningia cardinalis; Syzygium aromaticum; Dicranopteris linearis; Morinda citrifolia; Solanum tuberosum; Erigeron annuus; Fagraea gracilipes; Croton nitens; Portulaca oleracea; Syzygium nervosum; Phaseolus vulgaris; Dipteryx odorata; Phegopteris connectilis; Glycine tomentella; Myristica fragrans; Bauhinia purpurea; Bauhinia glauca; Etlingera elatior; Petroselinum crispum; Limnocharis flava; Cocos nucifera; Jasminum multiflorum; Amaranthus hypochondriacus; Ixora coccinea; Canarium strictum; Allium sativum; Helicteres angustifolia; Brassica napus; Citrus aurantium; Eucalyptus resinifera; Cucumis sativus; Raphanus sativus; Brassica oleracea; Glycine max; Solanum melongena; Debregeasia orientalis; Sinapis alba; Asparagus officinalis; Artocarpus altilis; Camellia sinensis; Porophyllum ruderale; Artemisia lactiflora; Kaempferia rotunda; Pteris semipinnata; Citrullus lanatus; Catunaregam spinosa; Pyrostegia venusta; Typha angustifolia; Indigofera linnaei,Kaempferol
+5,docked_ligand_1.sdf,1,-8.31993,Callicarpa japonica; Avrainvillea longicaulis; Brassica rapa; Dodonaea viscosa; Aristolochia zollingeriana; Lepidium sativum; Zea mays; Bryum argenteum; Daucus carota; Capsicum annuum; Entada phaseoloides; Jackiella javanica; Pangium edule; Anethum graveolens; Magnolia montana; Exallage auricularia; Allium schoenoprasum; Chrysanthemum indicum; Colocasia esculenta; Sterculia foetida; Allium cepa; Diplopterygium glaucum; Targionia hypophylla; Senna siamea; Diphasiastrum thyoides; Annona muricata; Euphorbia hirta; Gmelina asiatica; Virola surinamensis; Vigna mungo; Morus alba; Foeniculum vulgare; Phyllanthus emblica; Cuscuta australis; Solanum lycopersicum; Desmodium styracifolium; Nelumbo nucifera; Portulaca oleracea; Phaseolus vulgaris; Oenanthe javanica; Myristica fragrans; Bauhinia glauca; Petroselinum crispum; Limnocharis flava; Amaranthus hypochondriacus; Allium sativum; Helicteres angustifolia; Eucalyptus resinifera; Cucumis sativus; Brassica oleracea; Solanum melongena; Sinapis alba; Typha angustifolia,Isorhamnetin
+6,docked_ligand_1.sdf,2,-8.31333,Callicarpa japonica; Avrainvillea longicaulis; Brassica rapa; Dodonaea viscosa; Aristolochia zollingeriana; Lepidium sativum; Zea mays; Bryum argenteum; Daucus carota; Capsicum annuum; Entada phaseoloides; Jackiella javanica; Pangium edule; Anethum graveolens; Magnolia montana; Exallage auricularia; Allium schoenoprasum; Chrysanthemum indicum; Colocasia esculenta; Sterculia foetida; Allium cepa; Diplopterygium glaucum; Targionia hypophylla; Senna siamea; Diphasiastrum thyoides; Annona muricata; Euphorbia hirta; Gmelina asiatica; Virola surinamensis; Vigna mungo; Morus alba; Foeniculum vulgare; Phyllanthus emblica; Cuscuta australis; Solanum lycopersicum; Desmodium styracifolium; Nelumbo nucifera; Portulaca oleracea; Phaseolus vulgaris; Oenanthe javanica; Myristica fragrans; Bauhinia glauca; Petroselinum crispum; Limnocharis flava; Amaranthus hypochondriacus; Allium sativum; Helicteres angustifolia; Eucalyptus resinifera; Cucumis sativus; Brassica oleracea; Solanum melongena; Sinapis alba; Typha angustifolia,Isorhamnetin
+7,docked_ligand_1.sdf,3,-8.02687,Callicarpa japonica; Avrainvillea longicaulis; Brassica rapa; Dodonaea viscosa; Aristolochia zollingeriana; Lepidium sativum; Zea mays; Bryum argenteum; Daucus carota; Capsicum annuum; Entada phaseoloides; Jackiella javanica; Pangium edule; Anethum graveolens; Magnolia montana; Exallage auricularia; Allium schoenoprasum; Chrysanthemum indicum; Colocasia esculenta; Sterculia foetida; Allium cepa; Diplopterygium glaucum; Targionia hypophylla; Senna siamea; Diphasiastrum thyoides; Annona muricata; Euphorbia hirta; Gmelina asiatica; Virola surinamensis; Vigna mungo; Morus alba; Foeniculum vulgare; Phyllanthus emblica; Cuscuta australis; Solanum lycopersicum; Desmodium styracifolium; Nelumbo nucifera; Portulaca oleracea; Phaseolus vulgaris; Oenanthe javanica; Myristica fragrans; Bauhinia glauca; Petroselinum crispum; Limnocharis flava; Amaranthus hypochondriacus; Allium sativum; Helicteres angustifolia; Eucalyptus resinifera; Cucumis sativus; Brassica oleracea; Solanum melongena; Sinapis alba; Typha angustifolia,Isorhamnetin
+8,docked_ligand_1.sdf,4,-7.9476,Callicarpa japonica; Avrainvillea longicaulis; Brassica rapa; Dodonaea viscosa; Aristolochia zollingeriana; Lepidium sativum; Zea mays; Bryum argenteum; Daucus carota; Capsicum annuum; Entada phaseoloides; Jackiella javanica; Pangium edule; Anethum graveolens; Magnolia montana; Exallage auricularia; Allium schoenoprasum; Chrysanthemum indicum; Colocasia esculenta; Sterculia foetida; Allium cepa; Diplopterygium glaucum; Targionia hypophylla; Senna siamea; Diphasiastrum thyoides; Annona muricata; Euphorbia hirta; Gmelina asiatica; Virola surinamensis; Vigna mungo; Morus alba; Foeniculum vulgare; Phyllanthus emblica; Cuscuta australis; Solanum lycopersicum; Desmodium styracifolium; Nelumbo nucifera; Portulaca oleracea; Phaseolus vulgaris; Oenanthe javanica; Myristica fragrans; Bauhinia glauca; Petroselinum crispum; Limnocharis flava; Amaranthus hypochondriacus; Allium sativum; Helicteres angustifolia; Eucalyptus resinifera; Cucumis sativus; Brassica oleracea; Solanum melongena; Sinapis alba; Typha angustifolia,Isorhamnetin
+9,docked_ligand_1.sdf,5,-7.88401,Callicarpa japonica; Avrainvillea longicaulis; Brassica rapa; Dodonaea viscosa; Aristolochia zollingeriana; Lepidium sativum; Zea mays; Bryum argenteum; Daucus carota; Capsicum annuum; Entada phaseoloides; Jackiella javanica; Pangium edule; Anethum graveolens; Magnolia montana; Exallage auricularia; Allium schoenoprasum; Chrysanthemum indicum; Colocasia esculenta; Sterculia foetida; Allium cepa; Diplopterygium glaucum; Targionia hypophylla; Senna siamea; Diphasiastrum thyoides; Annona muricata; Euphorbia hirta; Gmelina asiatica; Virola surinamensis; Vigna mungo; Morus alba; Foeniculum vulgare; Phyllanthus emblica; Cuscuta australis; Solanum lycopersicum; Desmodium styracifolium; Nelumbo nucifera; Portulaca oleracea; Phaseolus vulgaris; Oenanthe javanica; Myristica fragrans; Bauhinia glauca; Petroselinum crispum; Limnocharis flava; Amaranthus hypochondriacus; Allium sativum; Helicteres angustifolia; Eucalyptus resinifera; Cucumis sativus; Brassica oleracea; Solanum melongena; Sinapis alba; Typha angustifolia,Isorhamnetin
+10,docked_ligand_10.sdf,1,-5.57044,Mascarenhasia arborescens; Kummerowia striata; Sida cordifolia; Solanum sisymbriifolium; Salacia chinensis; Merremia umbellata,3-Oxo-29-Hydroxyfriedelane
+11,docked_ligand_10.sdf,2,-5.56301,Mascarenhasia arborescens; Kummerowia striata; Sida cordifolia; Solanum sisymbriifolium; Salacia chinensis; Merremia umbellata,3-Oxo-29-Hydroxyfriedelane
+12,docked_ligand_10.sdf,3,-5.24993,Mascarenhasia arborescens; Kummerowia striata; Sida cordifolia; Solanum sisymbriifolium; Salacia chinensis; Merremia umbellata,3-Oxo-29-Hydroxyfriedelane
+13,docked_ligand_10.sdf,4,-4.10817,Mascarenhasia arborescens; Kummerowia striata; Sida cordifolia; Solanum sisymbriifolium; Salacia chinensis; Merremia umbellata,3-Oxo-29-Hydroxyfriedelane
+14,docked_ligand_10.sdf,5,-3.83796,Mascarenhasia arborescens; Kummerowia striata; Sida cordifolia; Solanum sisymbriifolium; Salacia chinensis; Merremia umbellata,3-Oxo-29-Hydroxyfriedelane
+15,docked_ligand_11.sdf,1,-5.92188,Duranta erecta; Carum carvi; Phalaenopsis amabilis; Calophyllum teysmannii; Rheum officinale; Punica granatum; Xanthium strumarium; Rheum palmatum; Brassica juncea; Pogostemon cablin,Sorbitol
+16,docked_ligand_11.sdf,2,-5.7627,Duranta erecta; Carum carvi; Phalaenopsis amabilis; Calophyllum teysmannii; Rheum officinale; Punica granatum; Xanthium strumarium; Rheum palmatum; Brassica juncea; Pogostemon cablin,Sorbitol
+17,docked_ligand_11.sdf,3,-5.73656,Duranta erecta; Carum carvi; Phalaenopsis amabilis; Calophyllum teysmannii; Rheum officinale; Punica granatum; Xanthium strumarium; Rheum palmatum; Brassica juncea; Pogostemon cablin,Sorbitol
+18,docked_ligand_11.sdf,4,-5.34505,Duranta erecta; Carum carvi; Phalaenopsis amabilis; Calophyllum teysmannii; Rheum officinale; Punica granatum; Xanthium strumarium; Rheum palmatum; Brassica juncea; Pogostemon cablin,Sorbitol
+19,docked_ligand_11.sdf,5,-5.13758,Duranta erecta; Carum carvi; Phalaenopsis amabilis; Calophyllum teysmannii; Rheum officinale; Punica granatum; Xanthium strumarium; Rheum palmatum; Brassica juncea; Pogostemon cablin,Sorbitol
+20,docked_ligand_12.sdf,1,-7.79965,Alseodaphne perakensis,Hydroxycryptolepine
+21,docked_ligand_12.sdf,2,-7.69286,Alseodaphne perakensis,Hydroxycryptolepine
+22,docked_ligand_12.sdf,3,-7.37365,Alseodaphne perakensis,Hydroxycryptolepine
+23,docked_ligand_12.sdf,4,-7.35253,Alseodaphne perakensis,Hydroxycryptolepine
+24,docked_ligand_12.sdf,5,-7.29137,Alseodaphne perakensis,Hydroxycryptolepine
+25,docked_ligand_13.sdf,1,-6.65874,Crotalaria tetragona,L-Erythro-Tricholomic Acid
+26,docked_ligand_13.sdf,2,-6.39624,Crotalaria tetragona,L-Erythro-Tricholomic Acid
+27,docked_ligand_13.sdf,3,-6.30679,Crotalaria tetragona,L-Erythro-Tricholomic Acid
+28,docked_ligand_13.sdf,4,-5.94257,Crotalaria tetragona,L-Erythro-Tricholomic Acid
+29,docked_ligand_13.sdf,5,-5.90864,Crotalaria tetragona,L-Erythro-Tricholomic Acid
+30,docked_ligand_14.sdf,1,-7.7322,Dalbergia parviflora,2'-Methoxybiochanin A
+31,docked_ligand_14.sdf,2,-7.55015,Dalbergia parviflora,2'-Methoxybiochanin A
+32,docked_ligand_14.sdf,3,-7.37777,Dalbergia parviflora,2'-Methoxybiochanin A
+33,docked_ligand_14.sdf,4,-7.36813,Dalbergia parviflora,2'-Methoxybiochanin A
+34,docked_ligand_14.sdf,5,-7.1485,Dalbergia parviflora,2'-Methoxybiochanin A
+35,docked_ligand_15.sdf,1,-7.327,Lygodium japonicum,"2-[(3S,3As,5Ar,5Br,7As,11As,11Br,13Ar,13Bs)-5A,5B,8,8,11A,13B-Hexamethyl-1,2,3,3A,4,5,6,7,7A,9,10,11,11B,12,13,13A-Hexadecahydrocyclopenta[A]Chrysen-3-Yl]Propan-2-Ol"
+36,docked_ligand_15.sdf,2,-6.9133,Lygodium japonicum,"2-[(3S,3As,5Ar,5Br,7As,11As,11Br,13Ar,13Bs)-5A,5B,8,8,11A,13B-Hexamethyl-1,2,3,3A,4,5,6,7,7A,9,10,11,11B,12,13,13A-Hexadecahydrocyclopenta[A]Chrysen-3-Yl]Propan-2-Ol"
+37,docked_ligand_15.sdf,3,-5.9131,Lygodium japonicum,"2-[(3S,3As,5Ar,5Br,7As,11As,11Br,13Ar,13Bs)-5A,5B,8,8,11A,13B-Hexamethyl-1,2,3,3A,4,5,6,7,7A,9,10,11,11B,12,13,13A-Hexadecahydrocyclopenta[A]Chrysen-3-Yl]Propan-2-Ol"
+38,docked_ligand_15.sdf,4,-5.53533,Lygodium japonicum,"2-[(3S,3As,5Ar,5Br,7As,11As,11Br,13Ar,13Bs)-5A,5B,8,8,11A,13B-Hexamethyl-1,2,3,3A,4,5,6,7,7A,9,10,11,11B,12,13,13A-Hexadecahydrocyclopenta[A]Chrysen-3-Yl]Propan-2-Ol"
+39,docked_ligand_15.sdf,5,-5.26135,Lygodium japonicum,"2-[(3S,3As,5Ar,5Br,7As,11As,11Br,13Ar,13Bs)-5A,5B,8,8,11A,13B-Hexamethyl-1,2,3,3A,4,5,6,7,7A,9,10,11,11B,12,13,13A-Hexadecahydrocyclopenta[A]Chrysen-3-Yl]Propan-2-Ol"
+40,docked_ligand_16.sdf,1,-7.46106,Hypericum monogynum; Hypericum uralum,Fluoxetine
+41,docked_ligand_16.sdf,2,-7.42799,Hypericum monogynum; Hypericum uralum,Fluoxetine
+42,docked_ligand_16.sdf,3,-7.41743,Hypericum monogynum; Hypericum uralum,Fluoxetine
+43,docked_ligand_16.sdf,4,-7.36189,Hypericum monogynum; Hypericum uralum,Fluoxetine
+44,docked_ligand_16.sdf,5,-7.32849,Hypericum monogynum; Hypericum uralum,Fluoxetine
+45,docked_ligand_17.sdf,1,-7.40556,Vitex negundo; Aralidium pinnatifidum; Eurycoma longifolia,CUGAWYNVYRXBFW-ANTZAFMPSA-N
+46,docked_ligand_17.sdf,2,-7.25538,Vitex negundo; Aralidium pinnatifidum; Eurycoma longifolia,CUGAWYNVYRXBFW-ANTZAFMPSA-N
+47,docked_ligand_17.sdf,3,-7.15498,Vitex negundo; Aralidium pinnatifidum; Eurycoma longifolia,CUGAWYNVYRXBFW-ANTZAFMPSA-N
+48,docked_ligand_17.sdf,4,-7.12508,Vitex negundo; Aralidium pinnatifidum; Eurycoma longifolia,CUGAWYNVYRXBFW-ANTZAFMPSA-N
+49,docked_ligand_17.sdf,5,-7.065,Vitex negundo; Aralidium pinnatifidum; Eurycoma longifolia,CUGAWYNVYRXBFW-ANTZAFMPSA-N
+50,docked_ligand_18.sdf,1,-8.56586,Ilex crenata; Aglaia edulis,Pannellin
+51,docked_ligand_18.sdf,2,-8.45616,Ilex crenata; Aglaia edulis,Pannellin
+52,docked_ligand_18.sdf,3,-8.35196,Ilex crenata; Aglaia edulis,Pannellin
+53,docked_ligand_18.sdf,4,-7.65112,Ilex crenata; Aglaia edulis,Pannellin
+54,docked_ligand_18.sdf,5,-7.55588,Ilex crenata; Aglaia edulis,Pannellin
+55,docked_ligand_19.sdf,1,-7.7153,Annona squamosa,Isocoreximine
+56,docked_ligand_19.sdf,2,-7.62856,Annona squamosa,Isocoreximine
+57,docked_ligand_19.sdf,3,-7.42782,Annona squamosa,Isocoreximine
+58,docked_ligand_19.sdf,4,-7.39767,Annona squamosa,Isocoreximine
+59,docked_ligand_19.sdf,5,-7.30878,Annona squamosa,Isocoreximine
+60,docked_ligand_2.sdf,1,-7.68344,Mentha canadensis; Chromolaena odorata; Kaempferia pulchra; Drosera peltata; Polygala glomerata; Mentha arvensis; Dipterocarpus alatus; Citrus reticulata; Bursaria spinosa; Sesbania punicea; Securidaca inappendiculata; Bauhinia racemosa,Gardenin B
+61,docked_ligand_2.sdf,2,-7.52521,Mentha canadensis; Chromolaena odorata; Kaempferia pulchra; Drosera peltata; Polygala glomerata; Mentha arvensis; Dipterocarpus alatus; Citrus reticulata; Bursaria spinosa; Sesbania punicea; Securidaca inappendiculata; Bauhinia racemosa,Gardenin B
+62,docked_ligand_2.sdf,3,-7.22272,Mentha canadensis; Chromolaena odorata; Kaempferia pulchra; Drosera peltata; Polygala glomerata; Mentha arvensis; Dipterocarpus alatus; Citrus reticulata; Bursaria spinosa; Sesbania punicea; Securidaca inappendiculata; Bauhinia racemosa,Gardenin B
+63,docked_ligand_2.sdf,4,-7.21322,Mentha canadensis; Chromolaena odorata; Kaempferia pulchra; Drosera peltata; Polygala glomerata; Mentha arvensis; Dipterocarpus alatus; Citrus reticulata; Bursaria spinosa; Sesbania punicea; Securidaca inappendiculata; Bauhinia racemosa,Gardenin B
+64,docked_ligand_2.sdf,5,-7.0511,Mentha canadensis; Chromolaena odorata; Kaempferia pulchra; Drosera peltata; Polygala glomerata; Mentha arvensis; Dipterocarpus alatus; Citrus reticulata; Bursaria spinosa; Sesbania punicea; Securidaca inappendiculata; Bauhinia racemosa,Gardenin B
+65,docked_ligand_20.sdf,1,-5.42711,Dipterocarpus dyeri; Ipomoea cairica; Fragaria vesca; Lasianthus fordii; Gardenia tubifera; Perilla frutescens,Methyl Alpha-D-Galactoside
+66,docked_ligand_20.sdf,2,-5.14478,Dipterocarpus dyeri; Ipomoea cairica; Fragaria vesca; Lasianthus fordii; Gardenia tubifera; Perilla frutescens,Methyl Alpha-D-Galactoside
+67,docked_ligand_20.sdf,3,-5.04405,Dipterocarpus dyeri; Ipomoea cairica; Fragaria vesca; Lasianthus fordii; Gardenia tubifera; Perilla frutescens,Methyl Alpha-D-Galactoside
+68,docked_ligand_20.sdf,4,-4.76861,Dipterocarpus dyeri; Ipomoea cairica; Fragaria vesca; Lasianthus fordii; Gardenia tubifera; Perilla frutescens,Methyl Alpha-D-Galactoside
+69,docked_ligand_20.sdf,5,-4.72109,Dipterocarpus dyeri; Ipomoea cairica; Fragaria vesca; Lasianthus fordii; Gardenia tubifera; Perilla frutescens,Methyl Alpha-D-Galactoside
+70,docked_ligand_21.sdf,1,-6.11413,Xanthium strumarium,"7-(Hydroxymethyl)-8,8-Dimethyl-4H-1,4-Benzothiazine-3,5-Dione"
+71,docked_ligand_21.sdf,2,-5.81716,Xanthium strumarium,"7-(Hydroxymethyl)-8,8-Dimethyl-4H-1,4-Benzothiazine-3,5-Dione"
+72,docked_ligand_21.sdf,3,-5.80362,Xanthium strumarium,"7-(Hydroxymethyl)-8,8-Dimethyl-4H-1,4-Benzothiazine-3,5-Dione"
+73,docked_ligand_21.sdf,4,-5.72313,Xanthium strumarium,"7-(Hydroxymethyl)-8,8-Dimethyl-4H-1,4-Benzothiazine-3,5-Dione"
+74,docked_ligand_21.sdf,5,-5.57327,Xanthium strumarium,"7-(Hydroxymethyl)-8,8-Dimethyl-4H-1,4-Benzothiazine-3,5-Dione"
+75,docked_ligand_22.sdf,1,-7.93887,Cocculus laurifolius,Methyl Coclaurine
+76,docked_ligand_22.sdf,2,-7.21664,Cocculus laurifolius,Methyl Coclaurine
+77,docked_ligand_22.sdf,3,-7.0768,Cocculus laurifolius,Methyl Coclaurine
+78,docked_ligand_22.sdf,4,-6.94327,Cocculus laurifolius,Methyl Coclaurine
+79,docked_ligand_22.sdf,5,-6.93583,Cocculus laurifolius,Methyl Coclaurine
+80,docked_ligand_23.sdf,1,-5.00026,Piper longum,"(3R,4S)-3,4-Dihydroxypiperidin-2-One"
+81,docked_ligand_23.sdf,2,-4.92041,Piper longum,"(3R,4S)-3,4-Dihydroxypiperidin-2-One"
+82,docked_ligand_23.sdf,3,-4.81421,Piper longum,"(3R,4S)-3,4-Dihydroxypiperidin-2-One"
+83,docked_ligand_23.sdf,4,-4.60219,Piper longum,"(3R,4S)-3,4-Dihydroxypiperidin-2-One"
+84,docked_ligand_23.sdf,5,-4.58082,Piper longum,"(3R,4S)-3,4-Dihydroxypiperidin-2-One"
+85,docked_ligand_24.sdf,1,-7.69136,Eria linearifolia; Castanea mollissima; Asparagus racemosus; Goniothalamus macrophyllus; Vigna luteola; Elaeocarpus serratus; Uncaria longiflora; Tubocapsicum anomalum; Cuscuta australis; Eucalyptus viminalis; Myrrhis odorata; Elettaria cardamomum,7-Oxodehydroabietinol
+86,docked_ligand_24.sdf,2,-6.95119,Eria linearifolia; Castanea mollissima; Asparagus racemosus; Goniothalamus macrophyllus; Vigna luteola; Elaeocarpus serratus; Uncaria longiflora; Tubocapsicum anomalum; Cuscuta australis; Eucalyptus viminalis; Myrrhis odorata; Elettaria cardamomum,7-Oxodehydroabietinol
+87,docked_ligand_24.sdf,3,-6.91174,Eria linearifolia; Castanea mollissima; Asparagus racemosus; Goniothalamus macrophyllus; Vigna luteola; Elaeocarpus serratus; Uncaria longiflora; Tubocapsicum anomalum; Cuscuta australis; Eucalyptus viminalis; Myrrhis odorata; Elettaria cardamomum,7-Oxodehydroabietinol
+88,docked_ligand_24.sdf,4,-6.72198,Eria linearifolia; Castanea mollissima; Asparagus racemosus; Goniothalamus macrophyllus; Vigna luteola; Elaeocarpus serratus; Uncaria longiflora; Tubocapsicum anomalum; Cuscuta australis; Eucalyptus viminalis; Myrrhis odorata; Elettaria cardamomum,7-Oxodehydroabietinol
+89,docked_ligand_24.sdf,5,-6.4912,Eria linearifolia; Castanea mollissima; Asparagus racemosus; Goniothalamus macrophyllus; Vigna luteola; Elaeocarpus serratus; Uncaria longiflora; Tubocapsicum anomalum; Cuscuta australis; Eucalyptus viminalis; Myrrhis odorata; Elettaria cardamomum,7-Oxodehydroabietinol
+90,docked_ligand_25.sdf,1,-4.92949,Lagascea mollis; Foeniculum vulgare,"1,4-Dimethoxybenzene"
+91,docked_ligand_25.sdf,2,-4.84329,Lagascea mollis; Foeniculum vulgare,"1,4-Dimethoxybenzene"
+92,docked_ligand_25.sdf,3,-4.68087,Lagascea mollis; Foeniculum vulgare,"1,4-Dimethoxybenzene"
+93,docked_ligand_25.sdf,4,-4.63768,Lagascea mollis; Foeniculum vulgare,"1,4-Dimethoxybenzene"
+94,docked_ligand_25.sdf,5,-4.63563,Lagascea mollis; Foeniculum vulgare,"1,4-Dimethoxybenzene"
+95,docked_ligand_26.sdf,1,-7.41897,Vitex negundo; Aralidium pinnatifidum; Eurycoma longifolia,Eurycomalide B
+96,docked_ligand_26.sdf,2,-7.41417,Vitex negundo; Aralidium pinnatifidum; Eurycoma longifolia,Eurycomalide B
+97,docked_ligand_26.sdf,3,-7.2714,Vitex negundo; Aralidium pinnatifidum; Eurycoma longifolia,Eurycomalide B
+98,docked_ligand_26.sdf,4,-7.07879,Vitex negundo; Aralidium pinnatifidum; Eurycoma longifolia,Eurycomalide B
+99,docked_ligand_26.sdf,5,-7.01301,Vitex negundo; Aralidium pinnatifidum; Eurycoma longifolia,Eurycomalide B
+100,docked_ligand_27.sdf,1,-8.3439,Striga lutea; Crotalaria medicaginea; Dalbergia parviflora; Dalbergia sissoo; Cytisus scoparius; Pongamia pinnata; Kopsia teoi; Cicer arietinum,Pratensein
+101,docked_ligand_27.sdf,2,-8.07792,Striga lutea; Crotalaria medicaginea; Dalbergia parviflora; Dalbergia sissoo; Cytisus scoparius; Pongamia pinnata; Kopsia teoi; Cicer arietinum,Pratensein
+102,docked_ligand_27.sdf,3,-8.03653,Striga lutea; Crotalaria medicaginea; Dalbergia parviflora; Dalbergia sissoo; Cytisus scoparius; Pongamia pinnata; Kopsia teoi; Cicer arietinum,Pratensein
+103,docked_ligand_27.sdf,4,-7.95959,Striga lutea; Crotalaria medicaginea; Dalbergia parviflora; Dalbergia sissoo; Cytisus scoparius; Pongamia pinnata; Kopsia teoi; Cicer arietinum,Pratensein
+104,docked_ligand_27.sdf,5,-7.88898,Striga lutea; Crotalaria medicaginea; Dalbergia parviflora; Dalbergia sissoo; Cytisus scoparius; Pongamia pinnata; Kopsia teoi; Cicer arietinum,Pratensein
+105,docked_ligand_28.sdf,1,-7.4201,Gymnadenia conopsea; Syzygium aromaticum,3'-O-Methylbatatasin Iii
+106,docked_ligand_28.sdf,2,-7.38104,Gymnadenia conopsea; Syzygium aromaticum,3'-O-Methylbatatasin Iii
+107,docked_ligand_28.sdf,3,-7.3705,Gymnadenia conopsea; Syzygium aromaticum,3'-O-Methylbatatasin Iii
+108,docked_ligand_28.sdf,4,-7.30804,Gymnadenia conopsea; Syzygium aromaticum,3'-O-Methylbatatasin Iii
+109,docked_ligand_28.sdf,5,-7.26536,Gymnadenia conopsea; Syzygium aromaticum,3'-O-Methylbatatasin Iii
+110,docked_ligand_29.sdf,1,-7.74784,Ulva lactuca; Acrostichum aureum,4''-Deoxyterphenyllin
+111,docked_ligand_29.sdf,2,-7.71332,Ulva lactuca; Acrostichum aureum,4''-Deoxyterphenyllin
+112,docked_ligand_29.sdf,3,-7.65653,Ulva lactuca; Acrostichum aureum,4''-Deoxyterphenyllin
+113,docked_ligand_29.sdf,4,-7.58947,Ulva lactuca; Acrostichum aureum,4''-Deoxyterphenyllin
+114,docked_ligand_29.sdf,5,-7.38874,Ulva lactuca; Acrostichum aureum,4''-Deoxyterphenyllin
+115,docked_ligand_3.sdf,1,-7.67067,Pterocarpus indicus,Angolensin
+116,docked_ligand_3.sdf,2,-7.29581,Pterocarpus indicus,Angolensin
+117,docked_ligand_3.sdf,3,-7.25908,Pterocarpus indicus,Angolensin
+118,docked_ligand_3.sdf,4,-7.20858,Pterocarpus indicus,Angolensin
+119,docked_ligand_3.sdf,5,-7.05571,Pterocarpus indicus,Angolensin
+120,docked_ligand_30.sdf,1,-9.68298,Lupinus albus; Salvia chinensis,"5-[5-(4-Hydroxy-Benzyl)-4-(4-Methoxy-Benzyl)-1-Methyl-1H-Imidazol-2-Ylamino]-3-Methyl-Imidazole-2,4-Dione"
+121,docked_ligand_30.sdf,2,-9.5333,Lupinus albus; Salvia chinensis,"5-[5-(4-Hydroxy-Benzyl)-4-(4-Methoxy-Benzyl)-1-Methyl-1H-Imidazol-2-Ylamino]-3-Methyl-Imidazole-2,4-Dione"
+122,docked_ligand_30.sdf,3,-9.11835,Lupinus albus; Salvia chinensis,"5-[5-(4-Hydroxy-Benzyl)-4-(4-Methoxy-Benzyl)-1-Methyl-1H-Imidazol-2-Ylamino]-3-Methyl-Imidazole-2,4-Dione"
+123,docked_ligand_30.sdf,4,-8.90158,Lupinus albus; Salvia chinensis,"5-[5-(4-Hydroxy-Benzyl)-4-(4-Methoxy-Benzyl)-1-Methyl-1H-Imidazol-2-Ylamino]-3-Methyl-Imidazole-2,4-Dione"
+124,docked_ligand_30.sdf,5,-8.52504,Lupinus albus; Salvia chinensis,"5-[5-(4-Hydroxy-Benzyl)-4-(4-Methoxy-Benzyl)-1-Methyl-1H-Imidazol-2-Ylamino]-3-Methyl-Imidazole-2,4-Dione"
+125,docked_ligand_31.sdf,1,-7.11242,Taraxacum officinale; Taraxacum mongolicum,Taraxacin
+126,docked_ligand_31.sdf,2,-7.07366,Taraxacum officinale; Taraxacum mongolicum,Taraxacin
+127,docked_ligand_31.sdf,3,-6.89251,Taraxacum officinale; Taraxacum mongolicum,Taraxacin
+128,docked_ligand_31.sdf,4,-6.66942,Taraxacum officinale; Taraxacum mongolicum,Taraxacin
+129,docked_ligand_31.sdf,5,-6.54403,Taraxacum officinale; Taraxacum mongolicum,Taraxacin
+130,docked_ligand_32.sdf,1,-8.3688,Aquilaria sinensis; Aquilaria malaccensis; Senecio scandens,6-Hydroxy-2-Phenethyl-Chromen-4-One
+131,docked_ligand_32.sdf,2,-8.3021,Aquilaria sinensis; Aquilaria malaccensis; Senecio scandens,6-Hydroxy-2-Phenethyl-Chromen-4-One
+132,docked_ligand_32.sdf,3,-8.29787,Aquilaria sinensis; Aquilaria malaccensis; Senecio scandens,6-Hydroxy-2-Phenethyl-Chromen-4-One
+133,docked_ligand_32.sdf,4,-8.25481,Aquilaria sinensis; Aquilaria malaccensis; Senecio scandens,6-Hydroxy-2-Phenethyl-Chromen-4-One
+134,docked_ligand_32.sdf,5,-8.24923,Aquilaria sinensis; Aquilaria malaccensis; Senecio scandens,6-Hydroxy-2-Phenethyl-Chromen-4-One
+135,docked_ligand_33.sdf,1,-8.31556,Orophea enneandra; Magnolia denudata; Magnolia sprengeri; Acorus calamus,Eudesmine
+136,docked_ligand_33.sdf,2,-7.98532,Orophea enneandra; Magnolia denudata; Magnolia sprengeri; Acorus calamus,Eudesmine
+137,docked_ligand_33.sdf,3,-7.96255,Orophea enneandra; Magnolia denudata; Magnolia sprengeri; Acorus calamus,Eudesmine
+138,docked_ligand_33.sdf,4,-7.91087,Orophea enneandra; Magnolia denudata; Magnolia sprengeri; Acorus calamus,Eudesmine
+139,docked_ligand_33.sdf,5,-7.88824,Orophea enneandra; Magnolia denudata; Magnolia sprengeri; Acorus calamus,Eudesmine
+140,docked_ligand_34.sdf,1,-7.39303,Pericampylus glaucus,Imerubrine
+141,docked_ligand_34.sdf,2,-7.27009,Pericampylus glaucus,Imerubrine
+142,docked_ligand_34.sdf,3,-7.25628,Pericampylus glaucus,Imerubrine
+143,docked_ligand_34.sdf,4,-7.23539,Pericampylus glaucus,Imerubrine
+144,docked_ligand_34.sdf,5,-7.22001,Pericampylus glaucus,Imerubrine
+145,docked_ligand_35.sdf,1,-7.95492,Dipterocarpus dyeri; Ipomoea cairica; Fragaria vesca; Lasianthus fordii; Gardenia tubifera; Perilla frutescens,Perilloxin
+146,docked_ligand_35.sdf,2,-7.40772,Dipterocarpus dyeri; Ipomoea cairica; Fragaria vesca; Lasianthus fordii; Gardenia tubifera; Perilla frutescens,Perilloxin
+147,docked_ligand_35.sdf,3,-7.21401,Dipterocarpus dyeri; Ipomoea cairica; Fragaria vesca; Lasianthus fordii; Gardenia tubifera; Perilla frutescens,Perilloxin
+148,docked_ligand_35.sdf,4,-7.20443,Dipterocarpus dyeri; Ipomoea cairica; Fragaria vesca; Lasianthus fordii; Gardenia tubifera; Perilla frutescens,Perilloxin
+149,docked_ligand_35.sdf,5,-7.09329,Dipterocarpus dyeri; Ipomoea cairica; Fragaria vesca; Lasianthus fordii; Gardenia tubifera; Perilla frutescens,Perilloxin
+150,docked_ligand_36.sdf,1,-7.57636,Cullen corylifolium,4'-Methoxyflavone
+151,docked_ligand_36.sdf,2,-7.46456,Cullen corylifolium,4'-Methoxyflavone
+152,docked_ligand_36.sdf,3,-7.45082,Cullen corylifolium,4'-Methoxyflavone
+153,docked_ligand_36.sdf,4,-7.43825,Cullen corylifolium,4'-Methoxyflavone
+154,docked_ligand_36.sdf,5,-7.31944,Cullen corylifolium,4'-Methoxyflavone
+155,docked_ligand_37.sdf,1,-7.14062,Muntingia calabura,"(2S)-8-Hydroxy-7,3',4',5'-Tetramethoxyflavan"
+156,docked_ligand_37.sdf,2,-7.08715,Muntingia calabura,"(2S)-8-Hydroxy-7,3',4',5'-Tetramethoxyflavan"
+157,docked_ligand_37.sdf,3,-6.97128,Muntingia calabura,"(2S)-8-Hydroxy-7,3',4',5'-Tetramethoxyflavan"
+158,docked_ligand_37.sdf,4,-6.94454,Muntingia calabura,"(2S)-8-Hydroxy-7,3',4',5'-Tetramethoxyflavan"
+159,docked_ligand_37.sdf,5,-6.91601,Muntingia calabura,"(2S)-8-Hydroxy-7,3',4',5'-Tetramethoxyflavan"
+160,docked_ligand_38.sdf,1,-7.60235,Stephania japonica,Steganacin
+161,docked_ligand_38.sdf,2,-7.23068,Stephania japonica,Steganacin
+162,docked_ligand_38.sdf,3,-7.14603,Stephania japonica,Steganacin
+163,docked_ligand_38.sdf,4,-7.04668,Stephania japonica,Steganacin
+164,docked_ligand_38.sdf,5,-6.64296,Stephania japonica,Steganacin
+165,docked_ligand_39.sdf,1,-8.49341,Ziziphus mauritiana; Ziziphus jujuba,Mauritine A
+166,docked_ligand_39.sdf,2,-7.45536,Ziziphus mauritiana; Ziziphus jujuba,Mauritine A
+167,docked_ligand_39.sdf,3,-7.28493,Ziziphus mauritiana; Ziziphus jujuba,Mauritine A
+168,docked_ligand_39.sdf,4,-6.66788,Ziziphus mauritiana; Ziziphus jujuba,Mauritine A
+169,docked_ligand_39.sdf,5,-6.00926,Ziziphus mauritiana; Ziziphus jujuba,Mauritine A
+170,docked_ligand_4.sdf,1,-8.049,Prunus cerasoides; Mentha canadensis; Phytolacca americana; Ocimum basilicum; Mentha arvensis; Mentha piperita,Xanthomicrol
+171,docked_ligand_4.sdf,2,-7.49184,Prunus cerasoides; Mentha canadensis; Phytolacca americana; Ocimum basilicum; Mentha arvensis; Mentha piperita,Xanthomicrol
+172,docked_ligand_4.sdf,3,-7.35109,Prunus cerasoides; Mentha canadensis; Phytolacca americana; Ocimum basilicum; Mentha arvensis; Mentha piperita,Xanthomicrol
+173,docked_ligand_4.sdf,4,-7.25591,Prunus cerasoides; Mentha canadensis; Phytolacca americana; Ocimum basilicum; Mentha arvensis; Mentha piperita,Xanthomicrol
+174,docked_ligand_4.sdf,5,-7.17399,Prunus cerasoides; Mentha canadensis; Phytolacca americana; Ocimum basilicum; Mentha arvensis; Mentha piperita,Xanthomicrol
+175,docked_ligand_40.sdf,1,-7.94852,Crinum latifolium; Bauhinia purpurea,Bauhinol E
+176,docked_ligand_40.sdf,2,-7.70849,Crinum latifolium; Bauhinia purpurea,Bauhinol E
+177,docked_ligand_40.sdf,3,-7.63343,Crinum latifolium; Bauhinia purpurea,Bauhinol E
+178,docked_ligand_40.sdf,4,-7.47251,Crinum latifolium; Bauhinia purpurea,Bauhinol E
+179,docked_ligand_40.sdf,5,-7.14594,Crinum latifolium; Bauhinia purpurea,Bauhinol E
+180,docked_ligand_41.sdf,1,-7.56532,Prunus persica,Skullcapflavone Ii
+181,docked_ligand_41.sdf,2,-7.11798,Prunus persica,Skullcapflavone Ii
+182,docked_ligand_41.sdf,3,-7.05636,Prunus persica,Skullcapflavone Ii
+183,docked_ligand_41.sdf,4,-7.05244,Prunus persica,Skullcapflavone Ii
+184,docked_ligand_41.sdf,5,-7.03615,Prunus persica,Skullcapflavone Ii
+185,docked_ligand_42.sdf,1,-7.72984,Soymida febrifuga; Crinum asiaticum,(S)-4-(7-Methoxychroman-2-Yl)Phenol
+186,docked_ligand_42.sdf,2,-7.46085,Soymida febrifuga; Crinum asiaticum,(S)-4-(7-Methoxychroman-2-Yl)Phenol
+187,docked_ligand_42.sdf,3,-7.27773,Soymida febrifuga; Crinum asiaticum,(S)-4-(7-Methoxychroman-2-Yl)Phenol
+188,docked_ligand_42.sdf,4,-7.27104,Soymida febrifuga; Crinum asiaticum,(S)-4-(7-Methoxychroman-2-Yl)Phenol
+189,docked_ligand_42.sdf,5,-7.22753,Soymida febrifuga; Crinum asiaticum,(S)-4-(7-Methoxychroman-2-Yl)Phenol
+190,docked_ligand_43.sdf,1,-7.55478,Harrisonia perforata,(+)-Vouacapenic Acid
+191,docked_ligand_43.sdf,2,-7.48044,Harrisonia perforata,(+)-Vouacapenic Acid
+192,docked_ligand_43.sdf,3,-7.47198,Harrisonia perforata,(+)-Vouacapenic Acid
+193,docked_ligand_43.sdf,4,-7.40593,Harrisonia perforata,(+)-Vouacapenic Acid
+194,docked_ligand_43.sdf,5,-7.40248,Harrisonia perforata,(+)-Vouacapenic Acid
+195,docked_ligand_44.sdf,1,-8.92901,Lantana camara,Linaroside
+196,docked_ligand_44.sdf,2,-8.59388,Lantana camara,Linaroside
+197,docked_ligand_44.sdf,3,-8.59213,Lantana camara,Linaroside
+198,docked_ligand_44.sdf,4,-8.46922,Lantana camara,Linaroside
+199,docked_ligand_44.sdf,5,-8.3983,Lantana camara,Linaroside
+200,docked_ligand_45.sdf,1,-8.68207,Rivina humilis; Phalaris canariensis; Payena lucida; Pteridium aquilinum; Samadera indica; Artemisia lactiflora,Ecdysone
+201,docked_ligand_45.sdf,2,-8.52746,Rivina humilis; Phalaris canariensis; Payena lucida; Pteridium aquilinum; Samadera indica; Artemisia lactiflora,Ecdysone
+202,docked_ligand_45.sdf,3,-7.77409,Rivina humilis; Phalaris canariensis; Payena lucida; Pteridium aquilinum; Samadera indica; Artemisia lactiflora,Ecdysone
+203,docked_ligand_45.sdf,4,-6.65475,Rivina humilis; Phalaris canariensis; Payena lucida; Pteridium aquilinum; Samadera indica; Artemisia lactiflora,Ecdysone
+204,docked_ligand_45.sdf,5,-6.48614,Rivina humilis; Phalaris canariensis; Payena lucida; Pteridium aquilinum; Samadera indica; Artemisia lactiflora,Ecdysone
+205,docked_ligand_46.sdf,1,-7.50851,Pandanus tectorius; Aegialitis annulata; Kopsia lapidilecta; Laurencia mariannensis; Clausena indica; Litsea monopetala; Pinus halepensis; Bonellia macrocarpa; Sarcococca saligna; Garcinia gaudichaudii; Pogostemon cablin; Hippocrepis emerus,"7,3',4'-Tri-O-Methylluteolin"
+206,docked_ligand_46.sdf,2,-7.24938,Pandanus tectorius; Aegialitis annulata; Kopsia lapidilecta; Laurencia mariannensis; Clausena indica; Litsea monopetala; Pinus halepensis; Bonellia macrocarpa; Sarcococca saligna; Garcinia gaudichaudii; Pogostemon cablin; Hippocrepis emerus,"7,3',4'-Tri-O-Methylluteolin"
+207,docked_ligand_46.sdf,3,-7.21465,Pandanus tectorius; Aegialitis annulata; Kopsia lapidilecta; Laurencia mariannensis; Clausena indica; Litsea monopetala; Pinus halepensis; Bonellia macrocarpa; Sarcococca saligna; Garcinia gaudichaudii; Pogostemon cablin; Hippocrepis emerus,"7,3',4'-Tri-O-Methylluteolin"
+208,docked_ligand_46.sdf,4,-7.03521,Pandanus tectorius; Aegialitis annulata; Kopsia lapidilecta; Laurencia mariannensis; Clausena indica; Litsea monopetala; Pinus halepensis; Bonellia macrocarpa; Sarcococca saligna; Garcinia gaudichaudii; Pogostemon cablin; Hippocrepis emerus,"7,3',4'-Tri-O-Methylluteolin"
+209,docked_ligand_46.sdf,5,-7.02661,Pandanus tectorius; Aegialitis annulata; Kopsia lapidilecta; Laurencia mariannensis; Clausena indica; Litsea monopetala; Pinus halepensis; Bonellia macrocarpa; Sarcococca saligna; Garcinia gaudichaudii; Pogostemon cablin; Hippocrepis emerus,"7,3',4'-Tri-O-Methylluteolin"
+210,docked_ligand_47.sdf,1,-8.81339,Eragrostis viscosa; Nauclea officinalis; Mangifera indica,Foliamangiferoside A
+211,docked_ligand_47.sdf,2,-8.74587,Eragrostis viscosa; Nauclea officinalis; Mangifera indica,Foliamangiferoside A
+212,docked_ligand_47.sdf,3,-8.53318,Eragrostis viscosa; Nauclea officinalis; Mangifera indica,Foliamangiferoside A
+213,docked_ligand_47.sdf,4,-8.25885,Eragrostis viscosa; Nauclea officinalis; Mangifera indica,Foliamangiferoside A
+214,docked_ligand_47.sdf,5,-8.24524,Eragrostis viscosa; Nauclea officinalis; Mangifera indica,Foliamangiferoside A
+215,docked_ligand_48.sdf,1,-5.92987,Broussonetia papyrifera,"5,7-Dihydrocoumarin"
+216,docked_ligand_48.sdf,2,-5.8922,Broussonetia papyrifera,"5,7-Dihydrocoumarin"
+217,docked_ligand_48.sdf,3,-5.70857,Broussonetia papyrifera,"5,7-Dihydrocoumarin"
+218,docked_ligand_48.sdf,4,-5.57264,Broussonetia papyrifera,"5,7-Dihydrocoumarin"
+219,docked_ligand_48.sdf,5,-5.30818,Broussonetia papyrifera,"5,7-Dihydrocoumarin"
+220,docked_ligand_49.sdf,1,-9.14342,Ficus nervosa; Drymaria cordata,Kaempferol-3-O-Rhamnoside
+221,docked_ligand_49.sdf,2,-8.85606,Ficus nervosa; Drymaria cordata,Kaempferol-3-O-Rhamnoside
+222,docked_ligand_49.sdf,3,-8.75486,Ficus nervosa; Drymaria cordata,Kaempferol-3-O-Rhamnoside
+223,docked_ligand_49.sdf,4,-8.65781,Ficus nervosa; Drymaria cordata,Kaempferol-3-O-Rhamnoside
+224,docked_ligand_49.sdf,5,-8.64006,Ficus nervosa; Drymaria cordata,Kaempferol-3-O-Rhamnoside
+225,docked_ligand_5.sdf,1,-6.14593,Murraya koenigii,Carbazole
+226,docked_ligand_5.sdf,2,-6.14139,Murraya koenigii,Carbazole
+227,docked_ligand_5.sdf,3,-6.06604,Murraya koenigii,Carbazole
+228,docked_ligand_5.sdf,4,-6.04638,Murraya koenigii,Carbazole
+229,docked_ligand_5.sdf,5,-5.93029,Murraya koenigii,Carbazole
+230,docked_ligand_50.sdf,1,-6.89175,Gossypium herbaceum,Bis(2-Ethylhexyl) Phthalate
+231,docked_ligand_50.sdf,2,-6.7752,Gossypium herbaceum,Bis(2-Ethylhexyl) Phthalate
+232,docked_ligand_50.sdf,3,-6.77027,Gossypium herbaceum,Bis(2-Ethylhexyl) Phthalate
+233,docked_ligand_50.sdf,4,-6.63648,Gossypium herbaceum,Bis(2-Ethylhexyl) Phthalate
+234,docked_ligand_50.sdf,5,-6.6202,Gossypium herbaceum,Bis(2-Ethylhexyl) Phthalate
+235,docked_ligand_51.sdf,1,-6.88615,Pandanus tectorius; Aegialitis annulata; Litsea monopetala; Bonellia macrocarpa; Sarcococca saligna; Garcinia gaudichaudii,Peperomin C
+236,docked_ligand_51.sdf,2,-6.84877,Pandanus tectorius; Aegialitis annulata; Litsea monopetala; Bonellia macrocarpa; Sarcococca saligna; Garcinia gaudichaudii,Peperomin C
+237,docked_ligand_51.sdf,3,-6.70792,Pandanus tectorius; Aegialitis annulata; Litsea monopetala; Bonellia macrocarpa; Sarcococca saligna; Garcinia gaudichaudii,Peperomin C
+238,docked_ligand_51.sdf,4,-6.62779,Pandanus tectorius; Aegialitis annulata; Litsea monopetala; Bonellia macrocarpa; Sarcococca saligna; Garcinia gaudichaudii,Peperomin C
+239,docked_ligand_51.sdf,5,-6.57117,Pandanus tectorius; Aegialitis annulata; Litsea monopetala; Bonellia macrocarpa; Sarcococca saligna; Garcinia gaudichaudii,Peperomin C
+240,docked_ligand_52.sdf,1,-7.22505,Garcinia schomburgkiana,Aphidicolin
+241,docked_ligand_52.sdf,2,-7.13038,Garcinia schomburgkiana,Aphidicolin
+242,docked_ligand_52.sdf,3,-6.84565,Garcinia schomburgkiana,Aphidicolin
+243,docked_ligand_52.sdf,4,-6.64118,Garcinia schomburgkiana,Aphidicolin
+244,docked_ligand_52.sdf,5,-6.56151,Garcinia schomburgkiana,Aphidicolin
+245,docked_ligand_53.sdf,1,-9.52617,Ipomoea muricata; Salvia hispanica; Styrax agrestis; Justicia adhatoda; Dalbergia sissoo; Ocimum basilicum; Magnolia coco; Erechtites hieraciifolius; Rosulabryum capillare; Macadamia ternifolia; Murraya paniculata; Desmodium styracifolium; Pistia stratiotes; Syzygium nervosum; Pterocarpus indicus; Glycine max; Hibiscus schizopetalus; Flemingia macrophylla; Kaempferia rotunda,Genistin
+246,docked_ligand_53.sdf,2,-9.17773,Ipomoea muricata; Salvia hispanica; Styrax agrestis; Justicia adhatoda; Dalbergia sissoo; Ocimum basilicum; Magnolia coco; Erechtites hieraciifolius; Rosulabryum capillare; Macadamia ternifolia; Murraya paniculata; Desmodium styracifolium; Pistia stratiotes; Syzygium nervosum; Pterocarpus indicus; Glycine max; Hibiscus schizopetalus; Flemingia macrophylla; Kaempferia rotunda,Genistin
+247,docked_ligand_53.sdf,3,-9.11833,Ipomoea muricata; Salvia hispanica; Styrax agrestis; Justicia adhatoda; Dalbergia sissoo; Ocimum basilicum; Magnolia coco; Erechtites hieraciifolius; Rosulabryum capillare; Macadamia ternifolia; Murraya paniculata; Desmodium styracifolium; Pistia stratiotes; Syzygium nervosum; Pterocarpus indicus; Glycine max; Hibiscus schizopetalus; Flemingia macrophylla; Kaempferia rotunda,Genistin
+248,docked_ligand_53.sdf,4,-9.02202,Ipomoea muricata; Salvia hispanica; Styrax agrestis; Justicia adhatoda; Dalbergia sissoo; Ocimum basilicum; Magnolia coco; Erechtites hieraciifolius; Rosulabryum capillare; Macadamia ternifolia; Murraya paniculata; Desmodium styracifolium; Pistia stratiotes; Syzygium nervosum; Pterocarpus indicus; Glycine max; Hibiscus schizopetalus; Flemingia macrophylla; Kaempferia rotunda,Genistin
+249,docked_ligand_53.sdf,5,-8.62969,Ipomoea muricata; Salvia hispanica; Styrax agrestis; Justicia adhatoda; Dalbergia sissoo; Ocimum basilicum; Magnolia coco; Erechtites hieraciifolius; Rosulabryum capillare; Macadamia ternifolia; Murraya paniculata; Desmodium styracifolium; Pistia stratiotes; Syzygium nervosum; Pterocarpus indicus; Glycine max; Hibiscus schizopetalus; Flemingia macrophylla; Kaempferia rotunda,Genistin
+250,docked_ligand_54.sdf,1,-8.47748,Crinum asiaticum,Narciclasine
+251,docked_ligand_54.sdf,2,-7.8745,Crinum asiaticum,Narciclasine
+252,docked_ligand_54.sdf,3,-7.87077,Crinum asiaticum,Narciclasine
+253,docked_ligand_54.sdf,4,-7.72975,Crinum asiaticum,Narciclasine
+254,docked_ligand_54.sdf,5,-7.62043,Crinum asiaticum,Narciclasine
+255,docked_ligand_55.sdf,1,-7.93876,Halimeda macroloba; Buxus sempervirens; Vicia villosa,Bufotalin
+256,docked_ligand_55.sdf,2,-7.7294,Halimeda macroloba; Buxus sempervirens; Vicia villosa,Bufotalin
+257,docked_ligand_55.sdf,3,-7.7259,Halimeda macroloba; Buxus sempervirens; Vicia villosa,Bufotalin
+258,docked_ligand_55.sdf,4,-7.15853,Halimeda macroloba; Buxus sempervirens; Vicia villosa,Bufotalin
+259,docked_ligand_55.sdf,5,-6.97426,Halimeda macroloba; Buxus sempervirens; Vicia villosa,Bufotalin
+260,docked_ligand_56.sdf,1,-5.99153,Rumex obtusifolius; Piper retrofractum; Epipactis palustris,QGFJORGLNPWXMK-MRVPVSSYSA-N
+261,docked_ligand_56.sdf,2,-5.9379,Rumex obtusifolius; Piper retrofractum; Epipactis palustris,QGFJORGLNPWXMK-MRVPVSSYSA-N
+262,docked_ligand_56.sdf,3,-5.73567,Rumex obtusifolius; Piper retrofractum; Epipactis palustris,QGFJORGLNPWXMK-MRVPVSSYSA-N
+263,docked_ligand_56.sdf,4,-5.65653,Rumex obtusifolius; Piper retrofractum; Epipactis palustris,QGFJORGLNPWXMK-MRVPVSSYSA-N
+264,docked_ligand_56.sdf,5,-5.60121,Rumex obtusifolius; Piper retrofractum; Epipactis palustris,QGFJORGLNPWXMK-MRVPVSSYSA-N
+265,docked_ligand_57.sdf,1,-8.02462,Aglaia foveolata,NNNRTJSRGAXLIH-MTSNUVQISA-N
+266,docked_ligand_57.sdf,2,-6.57651,Aglaia foveolata,NNNRTJSRGAXLIH-MTSNUVQISA-N
+267,docked_ligand_58.sdf,1,-5.62718,Chromolaena odorata; Kaempferia pulchra; Drosera peltata; Dipterocarpus alatus; Citrus reticulata; Bursaria spinosa; Citrus maxima; Sesbania punicea; Securidaca inappendiculata,2-Methylaminobenzoic Acid Methyl Ester
+268,docked_ligand_58.sdf,2,-5.39931,Chromolaena odorata; Kaempferia pulchra; Drosera peltata; Dipterocarpus alatus; Citrus reticulata; Bursaria spinosa; Citrus maxima; Sesbania punicea; Securidaca inappendiculata,2-Methylaminobenzoic Acid Methyl Ester
+269,docked_ligand_58.sdf,3,-5.36398,Chromolaena odorata; Kaempferia pulchra; Drosera peltata; Dipterocarpus alatus; Citrus reticulata; Bursaria spinosa; Citrus maxima; Sesbania punicea; Securidaca inappendiculata,2-Methylaminobenzoic Acid Methyl Ester
+270,docked_ligand_58.sdf,4,-5.19407,Chromolaena odorata; Kaempferia pulchra; Drosera peltata; Dipterocarpus alatus; Citrus reticulata; Bursaria spinosa; Citrus maxima; Sesbania punicea; Securidaca inappendiculata,2-Methylaminobenzoic Acid Methyl Ester
+271,docked_ligand_58.sdf,5,-5.09206,Chromolaena odorata; Kaempferia pulchra; Drosera peltata; Dipterocarpus alatus; Citrus reticulata; Bursaria spinosa; Citrus maxima; Sesbania punicea; Securidaca inappendiculata,2-Methylaminobenzoic Acid Methyl Ester
+272,docked_ligand_59.sdf,1,-7.51413,Primula veris,"3',4'-Dimethoxyflavone"
+273,docked_ligand_59.sdf,2,-7.39747,Primula veris,"3',4'-Dimethoxyflavone"
+274,docked_ligand_59.sdf,3,-7.3516,Primula veris,"3',4'-Dimethoxyflavone"
+275,docked_ligand_59.sdf,4,-7.06342,Primula veris,"3',4'-Dimethoxyflavone"
+276,docked_ligand_59.sdf,5,-7.03192,Primula veris,"3',4'-Dimethoxyflavone"
+277,docked_ligand_6.sdf,1,-8.11147,Coptis teeta,"6,7-Dimethoxy-3-(6-Methyl-7,8-Dihydro-5H-[1,3]Dioxolo[4,5-G]Isoquinolin-5-Yl)-3H-2-Benzofuran-1-One"
+278,docked_ligand_6.sdf,2,-7.12934,Coptis teeta,"6,7-Dimethoxy-3-(6-Methyl-7,8-Dihydro-5H-[1,3]Dioxolo[4,5-G]Isoquinolin-5-Yl)-3H-2-Benzofuran-1-One"
+279,docked_ligand_6.sdf,3,-6.9561,Coptis teeta,"6,7-Dimethoxy-3-(6-Methyl-7,8-Dihydro-5H-[1,3]Dioxolo[4,5-G]Isoquinolin-5-Yl)-3H-2-Benzofuran-1-One"
+280,docked_ligand_6.sdf,4,-6.75001,Coptis teeta,"6,7-Dimethoxy-3-(6-Methyl-7,8-Dihydro-5H-[1,3]Dioxolo[4,5-G]Isoquinolin-5-Yl)-3H-2-Benzofuran-1-One"
+281,docked_ligand_6.sdf,5,-6.64751,Coptis teeta,"6,7-Dimethoxy-3-(6-Methyl-7,8-Dihydro-5H-[1,3]Dioxolo[4,5-G]Isoquinolin-5-Yl)-3H-2-Benzofuran-1-One"
+282,docked_ligand_60.sdf,1,-6.29505,Zea mays,4-Acetyl-2-Benzoxazolinone
+283,docked_ligand_60.sdf,2,-5.91235,Zea mays,4-Acetyl-2-Benzoxazolinone
+284,docked_ligand_60.sdf,3,-5.69669,Zea mays,4-Acetyl-2-Benzoxazolinone
+285,docked_ligand_60.sdf,4,-5.60222,Zea mays,4-Acetyl-2-Benzoxazolinone
+286,docked_ligand_60.sdf,5,-5.54727,Zea mays,4-Acetyl-2-Benzoxazolinone
+287,docked_ligand_7.sdf,1,-8.90116,Coix lacryma-jobi,4-Ketopinoresinol
+288,docked_ligand_7.sdf,2,-8.73586,Coix lacryma-jobi,4-Ketopinoresinol
+289,docked_ligand_7.sdf,3,-8.57128,Coix lacryma-jobi,4-Ketopinoresinol
+290,docked_ligand_7.sdf,4,-8.09715,Coix lacryma-jobi,4-Ketopinoresinol
+291,docked_ligand_7.sdf,5,-7.99747,Coix lacryma-jobi,4-Ketopinoresinol
+292,docked_ligand_8.sdf,1,-9.28433,Morus alba,Glabrone
+293,docked_ligand_8.sdf,2,-8.83939,Morus alba,Glabrone
+294,docked_ligand_8.sdf,3,-8.7893,Morus alba,Glabrone
+295,docked_ligand_8.sdf,4,-8.46741,Morus alba,Glabrone
+296,docked_ligand_8.sdf,5,-8.33176,Morus alba,Glabrone
+297,docked_ligand_9.sdf,1,-7.70865,Quercus petraea,"(2R,3'r,6's)-3'-Hydroxy-2',2',6'-Trimethylspiro[3H-1-Benzofuran-2,1'-Cyclohexane]-5-Carboxylic Acid"
+298,docked_ligand_9.sdf,2,-7.54715,Quercus petraea,"(2R,3'r,6's)-3'-Hydroxy-2',2',6'-Trimethylspiro[3H-1-Benzofuran-2,1'-Cyclohexane]-5-Carboxylic Acid"
+299,docked_ligand_9.sdf,3,-7.53799,Quercus petraea,"(2R,3'r,6's)-3'-Hydroxy-2',2',6'-Trimethylspiro[3H-1-Benzofuran-2,1'-Cyclohexane]-5-Carboxylic Acid"
+300,docked_ligand_9.sdf,4,-6.91714,Quercus petraea,"(2R,3'r,6's)-3'-Hydroxy-2',2',6'-Trimethylspiro[3H-1-Benzofuran-2,1'-Cyclohexane]-5-Carboxylic Acid"
+301,docked_ligand_9.sdf,5,-6.87696,Quercus petraea,"(2R,3'r,6's)-3'-Hydroxy-2',2',6'-Trimethylspiro[3H-1-Benzofuran-2,1'-Cyclohexane]-5-Carboxylic Acid"
+302,docked_ligand_control.sdf,1,-8.63686,Control species_list,Control pref_name
+303,docked_ligand_control.sdf,2,-8.61558,Control species_list,Control pref_name
+304,docked_ligand_control.sdf,3,-8.53949,Control species_list,Control pref_name
+305,docked_ligand_control.sdf,4,-8.43492,Control species_list,Control pref_name
+306,docked_ligand_control.sdf,5,-8.3227,Control species_list,Control pref_name
